@@ -1,16 +1,1 @@
-<!DOCTYPE html>
-<html lang="th">
-<head>
-    <meta charset="UTF-8">
-    <title>About Me</title>
-</head>
-<body>
-    <h1>About me</h1>
-    <p>ช่องทางการติดต่อ:</p>
-    <ul>
-        <li><a href="https://www.facebook.com/kit.naja.568" target="_blank">Facebook</a></li>
-        <li><a href="https://www.instagram.com/rittosamu?igsh=MXA1MDE1b3F0MmZuNA%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-    </ul>
-</body>
-</html>
-
+theme: minima
